@@ -1,4 +1,4 @@
 :HL["/kotejebi-demo/_next/static/chunks/1wx36l0a5l3ya.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"pAVRuXka7JK7-XWwoXRQp","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"ZHX2kVXXAiGONL2HJFrI7","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
