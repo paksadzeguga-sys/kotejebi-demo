@@ -1,37 +1,26 @@
-1:"$Sreact.fragment"
-2:"/kotejebi-demo/site/_next/static/chunks/0umf92h1sb77c.js"
-3:I[39756,["$2"],"default"]
-4:I[37457,["$2"],"default"]
-9:"/kotejebi-demo/site/_next/static/chunks/2n5qeheznvl4u.js"
-a:I[22016,["$9"],""]
-16:"ViewportBoundary"
-17:I[97367,["$2"],"$16"]
-18:"MetadataBoundary"
-19:I[97367,["$2"],"$18"]
-1a:"$Sreact.suspense"
-1b:I[27201,["$2"],"IconMark"]
-:HL["/kotejebi-demo/site/_next/static/chunks/1jouidgpk76wm.css","style"]
-6:X
-6:C
-7:X
-e:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"mx-auto flex min-h-svh max-w-content flex-col justify-center px-5 py-20 md:px-8","children":[["$","p",null,{"className":"font-label text-label-11 text-accent-text","children":"PHASE 0 · WORKING ENVIRONMENT"}],["$","h1",null,{"className":"mt-4 font-display text-display-xl font-medium","children":"Your harmony in nature"}],["$","p",null,{"className":"mt-6 max-w-2xl text-base leading-relaxed text-fg/75","children":"This is the skeleton of the new kotejebi.ge. Real content, design and SEO are added in the next phases."}],["$","nav",null,{"aria-label":"Language","className":"mt-10 flex gap-3","children":[["$","$La","ka",{"href":"/","hrefLang":"ka","lang":"ka","className":"border border-line px-4 py-3 font-label text-label-11 transition-colors duration-150 hover:border-fg/40 aria-[current=page]:border-accent aria-[current=page]:text-accent-text","children":"ᲥᲐᲠᲗᲣᲚᲘ"}],["$","$La","en",{"href":"/en/","hrefLang":"en","lang":"en","aria-current":"page","className":"border border-line px-4 py-3 font-label text-label-11 transition-colors duration-150 hover:border-fg/40 aria-[current=page]:border-accent aria-[current=page]:text-accent-text","children":"ENGLISH"}],["$","$La","ru",{"href":"/ru/","hrefLang":"ru","lang":"ru","className":"border border-line px-4 py-3 font-label text-label-11 transition-colors duration-150 hover:border-fg/40 aria-[current=page]:border-accent aria-[current=page]:text-accent-text","children":"РУССКИЙ"}]]}],["$","section",null,{"aria-label":"Font check","className":"mt-16 grid gap-3 border-t border-line pt-8","children":["$Lf","$L10","$L11","$L12"]}]]}],["$L13"],"$L14"]}],"p":"$@15","v":null,"s":"$7"}}]]
-c:[["children",{"s":{"n":"path","t":"oc","k":"","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}]}]]}],"p":"$@d","v":"$6","s":"$7"},"c":"$Qe"}]]
-8:[["children",{"s":"en","h":131184,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/kotejebi-demo/site/_next/static/chunks/1jouidgpk76wm.css","precedence":"next"}]],["$","html",null,{"lang":"en","className":"_5LzIVG_variable sy1leW_variable hU-hBW_variable ITv2GW_variable nouMEa_variable GiE9Pq_variable","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to main content"}],["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[["$","main",null,{"id":"main","className":"mx-auto flex min-h-svh max-w-content flex-col justify-center px-5 py-20 md:px-8","children":[["$","p",null,{"className":"font-label text-label-11 text-accent-text","children":"404"}],["$","h1",null,{"className":"mt-4 font-display text-h2-56","children":"Page not found"}],["$","p",null,{"className":"mt-6 text-fg/75","children":"This address does not exist or has moved."}],["$","$La",null,{"href":"/en/","className":"mt-10 self-start bg-accent px-[22px] py-[14px] font-label text-label-12 text-on-accent transition-colors duration-150 hover:bg-accent-hover","children":["GO TO THE HOMEPAGE"," →"]}]]}],[]]}]]}]}]]}],"p":"$@b","v":null,"s":"$7"},"c":"$Qc"}]]
-0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","template":["$","$L4",null,{}],"notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]]}]]}],"p":"$@5","v":"$6","s":"$7"},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Kotejebi.ge · Phase 0 · working environment"}],["$","meta","1",{"name":"robots","content":"noindex, nofollow"}],["$","link","2",{"rel":"canonical","href":"https://kotejebi.ge/en/"}],["$","link","3",{"rel":"alternate","hrefLang":"ka","href":"https://kotejebi.ge/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://kotejebi.ge/en/"}],["$","link","5",{"rel":"alternate","hrefLang":"ru","href":"https://kotejebi.ge/ru/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://kotejebi.ge/"}],["$","meta","7",{"property":"og:title","content":"Kotejebi.ge · Phase 0 · working environment"}],["$","meta","8",{"property":"og:url","content":"https://kotejebi.ge/en/"}],["$","meta","9",{"property":"og:site_name","content":"Kotejebi.ge"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Kotejebi.ge · Phase 0 · working environment"}],["$","link","13",{"rel":"icon","href":"/kotejebi-demo/site/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1b","14",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1c","v":null,"s":"$7"}},"a":"$@1d","u":"$@1e","b":"W9aRYprY6PieYiBMDNQLe"}
-1f:I[97367,["$2"],"OutletBoundary"]
-f:["$","p",null,{"className":"font-display text-h3-36","children":["ᲮᲘᲡ ᲙᲝᲢᲔᲯᲔᲑᲘ"," · ",["$","span",null,{"lang":"ru","children":"Кириллица"}]]}]
-10:["$","p",null,{"className":"font-serif text-lead italic","children":["kotejebi.ge — წყნარი სახლი · ",["$","span",null,{"lang":"ru","children":"тихий дом"}]]}]
-11:["$","p",null,{"className":"font-label text-label-11 text-fg/60","children":["SPACE GROTESK · ᲛᲗᲐᲕᲠᲣᲚᲘ · ",["$","span",null,{"lang":"ru","children":"КИРИЛЛИЦА"}]]}]
-12:["$","p",null,{"className":"font-body text-sm text-fg/75","children":["Inter · Noto Sans Georgian · ხე, ხელი, სახლი · ",["$","span",null,{"lang":"ru","children":"дерево"}]]}]
-13:["$","script","script-0",{"src":"/kotejebi-demo/site/_next/static/chunks/2n5qeheznvl4u.js","async":true}]
-14:["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
-7:300
-20:null
-1e:true
-7:C
-1d:0
-d:"$undefined"
-b:"$undefined"
-5:"$undefined"
-1c:"$undefined"
-15:"$undefined"
+3:"$Sreact.fragment"
+4:"/kotejebi-demo/site/_next/static/chunks/0umf92h1sb77c.js"
+5:I[39756,["$4"],"default"]
+6:I[37457,["$4"],"default"]
+b:I[97367,["$4"],"OutletBoundary"]
+c:"$Sreact.suspense"
+f:"ViewportBoundary"
+10:I[97367,["$4"],"$f"]
+11:"MetadataBoundary"
+12:I[97367,["$4"],"$11"]
+13:I[27201,["$4"],"IconMark"]
+8:X
+8:C
+9:X
+a:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$3","c",{"children":[["$","main",null,{"id":"main","className":"mx-auto flex w-full max-w-content flex-1 flex-col justify-center px-5 py-20 md:px-8","children":[["$","p",null,{"className":"font-label text-label-11 text-bronze","children":"KOTEJEBI.GE · GEORGIA"}],["$","h1",null,{"className":"mt-5 font-display text-display-xl","children":"Wooden Cottages"}],["$","span",null,{"className":"mt-6 rule-gold","aria-hidden":"true"}],["$","p",null,{"className":"mt-6 font-display text-h4-28 leading-snug","children":["$","span",null,{"lang":"ka","className":"","children":["შენი კომფორტი ",["$","span",null,{"className":"text-accent","children":"შენებაში"}]]}]}],["$","p",null,{"className":"mt-6 max-w-2xl text-base leading-relaxed text-muted","children":"This is the skeleton of the new kotejebi.ge: colours, fonts and logo already follow the brand; content arrives in the next phases."}],["$","ul",null,{"className":"mt-14 flex flex-wrap gap-x-10 gap-y-4 border-t border-line pt-8","children":[["$","li","years",{"className":"flex items-baseline gap-2","children":[["$","span",null,{"className":"font-display text-h3-36 font-bold text-accent","children":"7"}],["$","span",null,{"className":"text-base text-fg","children":"years"}]]}],["$","li","cottages",{"className":"flex items-baseline gap-2","children":[["$","span",null,{"className":"font-display text-h3-36 font-bold text-accent","children":"80"}],["$","span",null,{"className":"text-base text-fg","children":"cottages"}]]}],["$","li","one principle",{"className":"flex items-baseline gap-2","children":["$undefined",["$","span",null,{"className":"text-base text-fg","children":"one principle"}]]}]]}]]}],null,["$","$Lb",null,{"children":["$","$c",null,{"name":"Next.MetadataOutlet","children":"$@d"}]}]]}],"p":"$@e","v":null,"s":"$9"}}]]
+2:[["children",{"s":{"n":"path","t":"oc","k":"","s":[]},"h":65600,"d":{"r":["$","$3","c",{"children":[null,["$","$L5",null,{"parallelRouterKey":"children","template":["$","$L6",null,{}]}]]}],"p":"$@7","v":"$8","s":"$9"},"c":"$Qa"}]]
+1:[["children",{"s":"en","h":131120,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":131152,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L10",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L12",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$c",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Construction of wooden cottages"}],["$","meta","1",{"name":"robots","content":"noindex, nofollow"}],["$","link","2",{"rel":"canonical","href":"https://kotejebi.ge/en/"}],["$","link","3",{"rel":"alternate","hrefLang":"ka","href":"https://kotejebi.ge/"}],["$","link","4",{"rel":"alternate","hrefLang":"en","href":"https://kotejebi.ge/en/"}],["$","link","5",{"rel":"alternate","hrefLang":"ru","href":"https://kotejebi.ge/ru/"}],["$","link","6",{"rel":"alternate","hrefLang":"x-default","href":"https://kotejebi.ge/"}],["$","meta","7",{"property":"og:title","content":"Construction of wooden cottages"}],["$","meta","8",{"property":"og:url","content":"https://kotejebi.ge/en/"}],["$","meta","9",{"property":"og:site_name","content":"Kotejebi.ge"}],["$","meta","10",{"property":"og:locale","content":"en_US"}],["$","meta","11",{"name":"twitter:card","content":"summary"}],["$","meta","12",{"name":"twitter:title","content":"Construction of wooden cottages"}],["$","link","13",{"rel":"icon","href":"/kotejebi-demo/site/icon.png?icon.3g2j364b8qzkp.png","sizes":"512x512","type":"image/png"}],["$","link","14",{"rel":"apple-touch-icon","href":"/kotejebi-demo/site/apple-icon.png?apple-icon.0-h-fgaqu_oyr.png","sizes":"180x180","type":"image/png"}],["$","$L13","15",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$9"}},"a":"$@15","u":"$@16","b":"MagFZ2tgjcnAjwLltJPDr"}
+d:null
+16:true
+9:300
+9:C
+15:0
+7:"$undefined"
+14:"$undefined"
+e:"$undefined"
