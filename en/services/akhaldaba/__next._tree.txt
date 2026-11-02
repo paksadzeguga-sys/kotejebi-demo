@@ -1,4 +1,4 @@
-:HL["/kotejebi-demo/_next/static/chunks/41m10bm_xw5ep.css","style"]
+:HL["/kotejebi-demo/_next/static/chunks/04p8zgeexbn71.css","style"]
 :HL["/kotejebi-demo/_next/static/media/016d679384a79ce2-s.p.229dadgnkttqx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kotejebi-demo/_next/static/media/7d9c63f55d6b5fde-s.p.39njcy413-i9q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kotejebi-demo/_next/static/media/a133a48be7a33bde-s.p.12d1qyvk9vvjr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -7,6 +7,6 @@
 :HL["/kotejebi-demo/_next/static/chunks/3_o76_bbzqpjx.css","style"]
 :HL["/kotejebi-demo/_next/static/chunks/2gbm5idi3ehjo.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
-2:[["children",{"s":{"n":"path","t":"oc","k":"services/akhaldaba","s":["konfiguratori","kontroli","skola"]},"h":65600,"c":"$Q3"}]]
+2:[["children",{"s":{"n":"path","t":"oc","k":"services/akhaldaba","s":["konfiguratori","skola"]},"h":65600,"c":"$Q3"}]]
 1:[["children",{"s":"en","h":131120,"c":"$Q2"}]]
-0:{"b":"vkMhBop-xsi12p9uJ6gz_","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"6mH-D6sCKhWGK9yxXQQla","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
