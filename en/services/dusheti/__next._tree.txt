@@ -1,4 +1,4 @@
-:HL["/kotejebi-demo/_next/static/chunks/1mu14b9nv4_aw.css","style"]
+:HL["/kotejebi-demo/_next/static/chunks/06or-zunu7oup.css","style"]
 :HL["/kotejebi-demo/_next/static/media/016d679384a79ce2-s.p.229dadgnkttqx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kotejebi-demo/_next/static/media/7d9c63f55d6b5fde-s.p.39njcy413-i9q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kotejebi-demo/_next/static/media/a133a48be7a33bde-s.p.12d1qyvk9vvjr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -9,4 +9,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"path","t":"oc","k":"services/dusheti","s":["konfiguratori","kontroli","skola"]},"h":65600,"c":"$Q3"}]]
 1:[["children",{"s":"en","h":131120,"c":"$Q2"}]]
-0:{"b":"gE53r_A-63zbgV22ZUd18","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"mCOIDj9ZjElqq9Hx4A7BJ","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
