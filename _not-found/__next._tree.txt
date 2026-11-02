@@ -1,4 +1,4 @@
-:HL["/kotejebi-demo/_next/static/chunks/3f-v3qmcx1sy6.css","style"]
+:HL["/kotejebi-demo/_next/static/chunks/41m10bm_xw5ep.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
-0:{"b":"HVkyLJ1epPR0s1XvzTL_V","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"vkMhBop-xsi12p9uJ6gz_","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
