@@ -1,12 +1,12 @@
-:HL["/kotejebi-demo/_next/static/chunks/3d_04bqo1mj-5.css","style"]
+:HL["/kotejebi-demo/_next/static/chunks/2w5mc4njpexey.css","style"]
 :HL["/kotejebi-demo/_next/static/media/016d679384a79ce2-s.p.229dadgnkttqx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kotejebi-demo/_next/static/media/7d9c63f55d6b5fde-s.p.39njcy413-i9q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kotejebi-demo/_next/static/media/a133a48be7a33bde-s.p.12d1qyvk9vvjr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kotejebi-demo/_next/static/media/ba390068d7828777-s.p.3jyn3nx1h9idx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/kotejebi-demo/_next/static/chunks/19b3wqwdz8x6i.css","style"]
-:HL["/kotejebi-demo/_next/static/chunks/3_o76_bbzqpjx.css","style"]
-:HL["/kotejebi-demo/_next/static/chunks/2gbm5idi3ehjo.css","style"]
+:HL["/kotejebi-demo/_next/static/chunks/175k3vrlmy-jc.css","style"]
+:HL["/kotejebi-demo/_next/static/chunks/0-tqc6ir9imrv.css","style"]
+:HL["https://kotejebi.ge/wp-content/uploads/2024/05/yvareli99.webp","image",{"imageSrcSet":"https://kotejebi.ge/wp-content/uploads/2024/05/yvareli99-300x200.webp 300w, https://kotejebi.ge/wp-content/uploads/2024/05/yvareli99-1024x683.webp 1024w, https://kotejebi.ge/wp-content/uploads/2024/05/yvareli99.webp 2048w","imageSizes":"(min-width: 1440px) 406px, (min-width: 1024px) 29vw, (min-width: 640px) 39vw, 57vw"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"path","t":"oc","k":"services/yvareli","s":["konfiguratori","skola"]},"h":65600,"c":"$Q3"}]]
 1:[["children",{"s":"en","h":131120,"c":"$Q2"}]]
-0:{"b":"78sFwenOXI4G9WBTAYlOU","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"QKosWqwNdxykzTYGoKap0","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
