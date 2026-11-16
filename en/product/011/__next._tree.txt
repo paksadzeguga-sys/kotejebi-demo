@@ -1,4 +1,4 @@
-:HL["/kotejebi-demo/_next/static/chunks/2w5mc4njpexey.css","style"]
+:HL["/kotejebi-demo/_next/static/chunks/120vpo48_1d1d.css","style"]
 :HL["/kotejebi-demo/_next/static/media/016d679384a79ce2-s.p.229dadgnkttqx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kotejebi-demo/_next/static/media/7d9c63f55d6b5fde-s.p.39njcy413-i9q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/kotejebi-demo/_next/static/media/a133a48be7a33bde-s.p.12d1qyvk9vvjr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -8,4 +8,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"path","t":"oc","k":"product/011","s":["konfiguratori","skola"]},"h":65600,"c":"$Q3"}]]
 1:[["children",{"s":"en","h":131120,"c":"$Q2"}]]
-0:{"b":"QKosWqwNdxykzTYGoKap0","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"XZXLPa7IjTruomUYl16EI","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
